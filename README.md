@@ -8,7 +8,7 @@ A CSS stylesheet which displays Train, Subway, Bus and Tramway signs of Paris an
 
 The library is divided into two files:
 
-- `font.min.css` is used to import the necessary _Parisian_ which is used for subway and train signs. The _IDF Voyageur_ font is used for tramway and bus signs;
+- `font.min.css` is used to import the necessary _Parisian_ font which is used for subway and train signs. The _IDF Voyageur_ font is used for tramway and bus signs;
 - `signs.min.css` contains all rules related to colours and layout.
 
 To use the library, add the stylesheets at your project:
