@@ -1,4 +1,4 @@
-# Ile-de-france mobility stylesheet 
+# Ile-de-france Mobility Stylesheet 
 
 A CSS stylesheet which displays Train, Subway, Bus and Tramway signs of Paris and its suburb. This repository is unofficial but based on the official [IDFM guidelines](https://data.iledefrance-mobilites.fr/pages/chartes-et-prescriptions/). This stylesheet aims to be light and easy to use with a similar render than SVG.
 
